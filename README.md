@@ -1,1 +1,2 @@
 # Pong-Game
+"I designed and implemented a Pong game using Python's Turtle module and object-oriented programming principles. Leveraging the Turtle module's graphical capabilities, I developed the game's features including paddle movement, ball physics, and score tracking. By applying object-oriented programming concepts such as classes and inheritance, I created a modular and maintainable codebase for the game. This project showcases my proficiency in Python programming, object-oriented design, and graphical application development."
